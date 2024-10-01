@@ -38,6 +38,4 @@ Para usar <WeatherApp>, siga estas etapas:
 Adicione sua Api key nos componentes necessários.
 
 ```
-## 📝 Licença
 
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
