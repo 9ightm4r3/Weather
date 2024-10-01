@@ -20,7 +20,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 - Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível.
 - Você Possui `uma API KEY da OpenWeatherMap e da Api Ninja City API`.
 
-## 🚀 Instalando <WeatherApp>
+## 🚀 Instalando 
 
 Para instalar o <WeatherApp>, siga estas etapas:
 
@@ -30,7 +30,7 @@ npm i
 npm run dev
 ```
 
-## ☕ Usando <nome_do_projeto>
+## ☕ Usando 
 
 Para usar <WeatherApp>, siga estas etapas:
 
